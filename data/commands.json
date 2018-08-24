@@ -1,0 +1,1 @@
+[null,{"name":"boogiewoogie","permissions":"NONE","restriction":"1","_id":"MSFTl","actions":[{"channel":"0","varName":"","name":"Join Voice Channel"},{"url":"https://www.youtube.com/watch?v=GDFaEBjA7PU","seek":"0","volume":"","passes":"1","bitrate":"","type":"1","name":"Play YouTube Video"},{"time":"147","measurement":"1","name":"Wait"},{"name":"Leave Voice Channel"}]}]
